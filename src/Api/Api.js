@@ -1,1 +1,1 @@
-export const  Api = 'http://localhost:3001' 
+export const Api = "http://192.168.100.17:3001";
