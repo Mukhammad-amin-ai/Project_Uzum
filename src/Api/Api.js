@@ -1,1 +1,1 @@
-export const  Api = 'https://project-uzum.vercel.app/:3001' 
+export const  Api = 'http://localhost:3001' 
