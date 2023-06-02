@@ -24,7 +24,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "server": "json-server --watch db.json",
+    "dev": "concurrently npm ",
+    "server": "json-server --watch Server/db.json --port 8000",
     "start": "react-scripts start & npm-run-all",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -47,5 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "concurrently": "^8.1.0"
   }
 }
