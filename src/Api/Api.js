@@ -1,1 +1,1 @@
-export const Api = "http://192.168.100.17:3001";
+export const Api = "https://rest-ful-api-beryl.vercel.app/api";
