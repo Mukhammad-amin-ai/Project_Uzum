@@ -1,0 +1,88 @@
+.swiper-button-prev {
+    font-weight: 900;
+    --swiper-navigation-size: 20px;
+    --swiper-navigation-top-offset: 50% !important;
+    --swiper-navigation-sides-offset: 30px;
+    --swiper-navigation-color: #000;
+}
+.swiper-button-prev::before{
+    content: "";
+    position: absolute;
+    width: 40px;
+    height:40px;
+    position: -1;
+    border-radius: 50%;
+    background-color:rgba(255, 255, 255, 0.19);
+}
+.swiper-button-next::before{
+    content: "";
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    position: -1;
+    border-radius: 50%;
+    background-color:rgba(255, 255, 255, 0.19);
+}
+
+.swiper-button-next {
+    font-weight: 900;
+    --swiper-navigation-size: 20px;
+    --swiper-navigation-top-offset: 50% !important;
+    --swiper-navigation-sides-offset: 30px;
+    --swiper-navigation-color: #000;
+}
+
+.swiper-pagination {
+    --swiper-pagination-color: #fff;
+    --swiper-pagination-left: auto;
+    --swiper-pagination-right: 8px;
+    --swiper-pagination-bottom: 8px;
+    --swiper-pagination-top: auto;
+    --swiper-pagination-fraction-color: inherit;
+    --swiper-pagination-progressbar-bg-color: rgba(0, 0, 0, 0.25);
+    --swiper-pagination-progressbar-size: 4px;
+    --swiper-pagination-bullet-size: 8px;
+    --swiper-pagination-bullet-width: 8px;
+    --swiper-pagination-bullet-height: 8px;
+    --swiper-pagination-bullet-inactive-color: #000;
+    --swiper-pagination-bullet-inactive-opacity: 0.2;
+    --swiper-pagination-bullet-opacity: 1;
+    --swiper-pagination-bullet-horizontal-gap: 4px;
+    --swiper-pagination-bullet-vertical-gap: 6px;
+}
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+@media screen and (max-width:600px) {
+    .swiper-wrapper{
+        width: 95%;
+    }
+    .swiper-pagination {
+        display: none;
+    }
+
+    .swiper-button-prev {
+        display: none;
+    }
+
+    .swiper-button-next {
+        display: none;
+    }
+
+}
+
+@media screen and (max-width:900px) {
+    .swiper-pagination {
+        display: none;
+    }
+    .swiper-button-prev {
+        display: none;
+    }
+
+    .swiper-button-next {
+        display: none;
+    }
+
+}

@@ -1,0 +1,3324 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "img": "https://images.uzum.uz/ch4hc3fg49devoaf8cpg/original.jpg",
+      "type": "skidki",
+      "credit": "1 820 сум/мес",
+      "skidka": "21 000 сум",
+      "price": "14 000 сум",
+      "ocenka": "844",
+      "star": "5.0",
+      "descript": "Подсолнечное масло Щедрое лето, рафинированное, 900 мл",
+      "activeIcon": false,
+      "seller": "PROGRESS",
+      "liked": false
+    },
+    {
+      "id": 2,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "skidki",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo",
+      "liked": false
+    },
+    {
+      "id": 3,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "skidki",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР",
+      "liked": false
+    },
+    {
+      "id": 4,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "skidki",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1",
+      "liked": false
+    },
+    {
+      "id": 5,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "skidki",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way",
+      "liked": false
+    },
+    {
+      "id": 6,
+      "img": "https://images.uzum.uz/ch4hc3fg49devoaf8cpg/original.jpg",
+      "type": "skidki",
+      "credit": "1 820 сум/мес",
+      "skidka": "21 000 сум",
+      "price": "14 000 сум",
+      "ocenka": "844",
+      "star": "5.0",
+      "descript": "Подсолнечное масло Щедрое лето, рафинированное, 900 мл",
+      "activeIcon": false,
+      "seller": "PROGRESS",
+      "liked": false
+
+    },
+    {
+      "id": 7,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "skidki",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo",
+      "liked": false
+
+    },
+    {
+      "id": 8,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "skidki",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР",
+      "liked": false
+
+    },
+    {
+      "id": 9,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "skidki",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1",
+      "liked": false
+
+    },
+    {
+      "id": 10,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "skidki",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way",
+      "liked": false
+
+    },
+    {
+      "id": 11,
+      "img": "https://images.uzum.uz/ch4hc3fg49devoaf8cpg/original.jpg",
+      "type": "skidki",
+      "credit": "1 820 сум/мес",
+      "skidka": "21 000 сум",
+      "price": "14 000 сум",
+      "ocenka": "844",
+      "star": "5.0",
+      "descript": "Подсолнечное масло Щедрое лето, рафинированное, 900 мл",
+      "activeIcon": false,
+      "seller": "PROGRESS",
+      "liked": false
+
+    },
+    {
+      "id": 12,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "skidki",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo",
+      "liked": false
+
+    },
+    {
+      "id": 13,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "skidki",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР",
+      "liked": false
+
+    },
+    {
+      "id": 14,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "skidki",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1",
+      "liked": false
+
+    },
+    {
+      "id": 15,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "skidki",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way",
+      "liked": false
+
+    },
+    {
+      "id": 16,
+      "img": "https://images.uzum.uz/ch4hc3fg49devoaf8cpg/original.jpg",
+      "type": "skidki",
+      "credit": "1 820 сум/мес",
+      "skidka": "21 000 сум",
+      "price": "14 000 сум",
+      "ocenka": "844",
+      "star": "5.0",
+      "descript": "Подсолнечное масло Щедрое лето, рафинированное, 900 мл",
+      "activeIcon": false,
+      "seller": "PROGRESS",
+      "liked": false
+
+    },
+    {
+      "id": 17,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "skidki",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo",
+      "liked": false
+
+    },
+    {
+      "id": 18,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "skidki",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР",
+      "liked": false
+
+    },
+    {
+      "id": 19,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "skidki",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1",
+      "liked": false
+
+    },
+    {
+      "id": 20,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "skidki",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way",
+      "liked": false
+
+    },
+    {
+      "id": 21,
+      "img": "https://images.uzum.uz/ch4hc3fg49devoaf8cpg/original.jpg",
+      "type": "skidki",
+      "credit": "1 820 сум/мес",
+      "skidka": "21 000 сум",
+      "price": "14 000 сум",
+      "ocenka": "844",
+      "star": "5.0",
+      "descript": "Подсолнечное масло Щедрое лето, рафинированное, 900 мл",
+      "activeIcon": false,
+      "seller": "PROGRESS",
+      "liked": false
+
+    },
+    {
+      "id": 22,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "skidki",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo",
+      "liked": false
+
+    },
+    {
+      "id": 23,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "skidki",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР",
+      "liked": false
+
+    },
+    {
+      "id": 24,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "skidki",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1",
+      "liked": false
+
+    },
+    {
+      "id": 25,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "skidki",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way",
+      "liked": false
+
+    },
+    {
+      "id": 26,
+      "img": "https://images.uzum.uz/ch4hc3fg49devoaf8cpg/original.jpg",
+      "type": "skidki",
+      "credit": "1 820 сум/мес",
+      "skidka": "21 000 сум",
+      "price": "14 000 сум",
+      "ocenka": "844",
+      "star": "5.0",
+      "descript": "Подсолнечное масло Щедрое лето, рафинированное, 900 мл",
+      "activeIcon": false,
+      "seller": "PROGRESS",
+      "liked": false
+
+    },
+    {
+      "id": 27,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "skidki",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo",
+      "liked": false
+
+    },
+    {
+      "id": 28,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "skidki",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР",
+      "liked": false
+
+    },
+    {
+      "id": 29,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "skidki",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1",
+      "liked": false
+
+    },
+    {
+      "id": 30,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "skidki",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way",
+      "liked": false
+
+    },
+    {
+      "id": 31,
+      "img": "https://images.uzum.uz/ch4hc3fg49devoaf8cpg/original.jpg",
+      "type": "skidki",
+      "credit": "1 820 сум/мес",
+      "skidka": "21 000 сум",
+      "price": "14 000 сум",
+      "ocenka": "844",
+      "star": "5.0",
+      "descript": "Подсолнечное масло Щедрое лето, рафинированное, 900 мл",
+      "activeIcon": false,
+      "seller": "PROGRESS",
+      "liked": false
+
+    },
+    {
+      "id": 32,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "skidki",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo",
+      "liked": false
+
+    },
+    {
+      "id": 33,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "skidki",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР",
+      "liked": false
+
+    },
+    {
+      "id": 34,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "skidki",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1",
+      "liked": false
+
+    },
+    {
+      "id": 35,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "skidki",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way",
+      "liked": false
+
+    },
+    {
+      "id": 36,
+      "img": "https://images.uzum.uz/ch4hc3fg49devoaf8cpg/original.jpg",
+      "type": "skidki",
+      "credit": "1 820 сум/мес",
+      "skidka": "21 000 сум",
+      "price": "14 000 сум",
+      "ocenka": "844",
+      "star": "5.0",
+      "descript": "Подсолнечное масло Щедрое лето, рафинированное, 900 мл",
+      "activeIcon": false,
+      "seller": "PROGRESS",
+      "liked": false
+
+    },
+    {
+      "id": 37,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "skidki",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo",
+      "liked": false
+
+    },
+    {
+      "id": 38,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "skidki",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР",
+      "liked": false
+
+    },
+    {
+      "id": 39,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "skidki",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1",
+      "liked": false
+
+    },
+    {
+      "id": 40,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "skidki",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way",
+      "liked": false
+
+    },
+    {
+      "id": 41,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "rasrochka",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way",
+      "liked": false
+
+    },
+    {
+      "id": 42,
+      "img": "https://images.uzum.uz/ch4hc3fg49devoaf8cpg/original.jpg",
+      "type": "rasrochka",
+      "credit": "1 820 сум/мес",
+      "skidka": "21 000 сум",
+      "price": "14 000 сум",
+      "ocenka": "844",
+      "star": "5.0",
+      "descript": "Подсолнечное масло Щедрое лето, рафинированное, 900 мл",
+      "activeIcon": false,
+      "seller": "PROGRESS",
+      "liked": false
+
+    },
+    {
+      "id": 43,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "rasrochka",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo",
+      "liked": false
+
+    },
+    {
+      "id": 44,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "rasrochka",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР",
+      "liked": false
+
+    },
+    {
+      "id": 45,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "rasrochka",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1",
+      "liked": false
+
+    },
+    {
+      "id": 46,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "rasrochka",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way",
+      "liked": false
+
+    },
+    {
+      "id": 47,
+      "img": "https://images.uzum.uz/ch4hc3fg49devoaf8cpg/original.jpg",
+      "type": "rasrochka",
+      "credit": "1 820 сум/мес",
+      "skidka": "21 000 сум",
+      "price": "14 000 сум",
+      "ocenka": "844",
+      "star": "5.0",
+      "descript": "Подсолнечное масло Щедрое лето, рафинированное, 900 мл",
+      "activeIcon": false,
+      "seller": "PROGRESS",
+      "liked": false
+
+    },
+    {
+      "id": 48,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "rasrochka",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo",
+      "liked": false
+
+    },
+    {
+      "id": 49,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "rasrochka",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР",
+      "liked": false
+
+    },
+    {
+      "id": 50,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "rasrochka",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1",
+      "liked": false
+
+    },
+    {
+      "id": 51,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "bazar",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way"
+    },
+    {
+      "id": 52,
+      "img": "https://images.uzum.uz/ch4hc3fg49devoaf8cpg/original.jpg",
+      "type": "bazar",
+      "credit": "1 820 сум/мес",
+      "skidka": "21 000 сум",
+      "price": "14 000 сум",
+      "ocenka": "844",
+      "star": "5.0",
+      "descript": "Подсолнечное масло Щедрое лето, рафинированное, 900 мл",
+      "activeIcon": false,
+      "seller": "PROGRESS"
+    },
+    {
+      "id": 53,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "bazar",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo"
+    },
+    {
+      "id": 54,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "bazar",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР"
+    },
+    {
+      "id": 55,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "bazar",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1"
+    },
+    {
+      "id": 56,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "bazar",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way"
+    },
+    {
+      "id": 57,
+      "img": "https://images.uzum.uz/ch4hc3fg49devoaf8cpg/original.jpg",
+      "type": "bazar",
+      "credit": "1 820 сум/мес",
+      "skidka": "21 000 сум",
+      "price": "14 000 сум",
+      "ocenka": "844",
+      "star": "5.0",
+      "descript": "Подсолнечное масло Щедрое лето, рафинированное, 900 мл",
+      "activeIcon": false,
+      "seller": "PROGRESS"
+    },
+    {
+      "id": 58,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "bazar",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo"
+    },
+    {
+      "id": 59,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "bazar",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР"
+    },
+    {
+      "id": 60,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "bazar",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1"
+    },
+    {
+      "id": 61,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "novinki",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way"
+    },
+    {
+      "id": 62,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "novinki",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo"
+    },
+    {
+      "id": 63,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "novinki",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР"
+    },
+    {
+      "id": 64,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "novinki",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1"
+    },
+    {
+      "id": 65,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "novinki",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way"
+    },
+    {
+      "id": 66,
+      "img": "https://images.uzum.uz/ch4hc3fg49devoaf8cpg/original.jpg",
+      "type": "novinki",
+      "credit": "1 820 сум/мес",
+      "skidka": "21 000 сум",
+      "price": "14 000 сум",
+      "ocenka": "844",
+      "star": "5.0",
+      "descript": "Подсолнечное масло Щедрое лето, рафинированное, 900 мл",
+      "activeIcon": false,
+      "seller": "PROGRESS"
+    },
+    {
+      "id": 67,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "novinki",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo"
+    },
+    {
+      "id": 68,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "novinki",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР"
+    },
+    {
+      "id": 69,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "novinki",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1"
+    },
+    {
+      "id": 70,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "novinki",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way"
+    },
+    {
+      "id": 71,
+      "img": "https://images.uzum.uz/ch4hc3fg49devoaf8cpg/original.jpg",
+      "type": "novinki",
+      "credit": "1 820 сум/мес",
+      "skidka": "21 000 сум",
+      "price": "14 000 сум",
+      "ocenka": "844",
+      "star": "5.0",
+      "descript": "Подсолнечное масло Щедрое лето, рафинированное, 900 мл",
+      "activeIcon": false,
+      "seller": "PROGRESS"
+    },
+    {
+      "id": 72,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "novinki",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo"
+    },
+    {
+      "id": 73,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "novinki",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР"
+    },
+    {
+      "id": 74,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "novinki",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1"
+    },
+    {
+      "id": 75,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "novinki",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way"
+    },
+    {
+      "id": 76,
+      "img": "https://images.uzum.uz/ch4hc3fg49devoaf8cpg/original.jpg",
+      "type": "novinki",
+      "credit": "1 820 сум/мес",
+      "skidka": "21 000 сум",
+      "price": "14 000 сум",
+      "ocenka": "844",
+      "star": "5.0",
+      "descript": "Подсолнечное масло Щедрое лето, рафинированное, 900 мл",
+      "activeIcon": false,
+      "seller": "PROGRESS"
+    },
+    {
+      "id": 77,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "novinki",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo"
+    },
+    {
+      "id": 78,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "novinki",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР"
+    },
+    {
+      "id": 79,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "novinki",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1"
+    },
+    {
+      "id": 80,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "novinki",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way"
+    },
+    {
+      "id": 81,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "novinki",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way"
+    },
+    {
+      "id": 82,
+      "img": "https://images.uzum.uz/ch4hc3fg49devoaf8cpg/original.jpg",
+      "type": "novinki",
+      "credit": "1 820 сум/мес",
+      "skidka": "21 000 сум",
+      "price": "14 000 сум",
+      "ocenka": "844",
+      "star": "5.0",
+      "descript": "Подсолнечное масло Щедрое лето, рафинированное, 900 мл",
+      "activeIcon": false,
+      "seller": "PROGRESS"
+    },
+    {
+      "id": 83,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "novinki",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo"
+    },
+    {
+      "id": 84,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "novinki",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР"
+    },
+    {
+      "id": 85,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "novinki",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1"
+    },
+    {
+      "id": 86,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "novinki",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way"
+    },
+    {
+      "id": 87,
+      "img": "https://images.uzum.uz/ch4hc3fg49devoaf8cpg/original.jpg",
+      "type": "novinki",
+      "credit": "1 820 сум/мес",
+      "skidka": "21 000 сум",
+      "price": "14 000 сум",
+      "ocenka": "844",
+      "star": "5.0",
+      "descript": "Подсолнечное масло Щедрое лето, рафинированное, 900 мл",
+      "activeIcon": false,
+      "seller": "PROGRESS"
+    },
+    {
+      "id": 88,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "novinki",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo"
+    },
+    {
+      "id": 89,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "novinki",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР"
+    },
+    {
+      "id": 90,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "novinki",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1"
+    },
+    {
+      "id": 91,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "novinki",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way"
+    },
+    {
+      "id": 92,
+      "img": "https://images.uzum.uz/ch4hc3fg49devoaf8cpg/original.jpg",
+      "type": "novinki",
+      "credit": "1 820 сум/мес",
+      "skidka": "21 000 сум",
+      "price": "14 000 сум",
+      "ocenka": "844",
+      "star": "5.0",
+      "descript": "Подсолнечное масло Щедрое лето, рафинированное, 900 мл",
+      "activeIcon": false,
+      "seller": "PROGRESS"
+    },
+    {
+      "id": 93,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "novinki",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo"
+    },
+    {
+      "id": 94,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "novinki",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР"
+    },
+    {
+      "id": 95,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "novinki",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1"
+    },
+    {
+      "id": 96,
+      "img": "https://images.uzum.uz/chdrk1fhj8j9aj19nnq0/t_product_540_high.jpg#1683887722014",
+      "type": "novinki",
+      "credit": "50 700 сум/мес",
+      "skidka": "1 014 000 сум",
+      "price": "390 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Надувной бассейн Intex Easy Set, 244 * 76 см, 2419 л",
+      "activeIcon": false,
+      "seller": "Best Way"
+    },
+    {
+      "id": 97,
+      "img": "https://images.uzum.uz/ch4hc3fg49devoaf8cpg/original.jpg",
+      "type": "novinki",
+      "credit": "1 820 сум/мес",
+      "skidka": "21 000 сум",
+      "price": "14 000 сум",
+      "ocenka": "844",
+      "star": "5.0",
+      "descript": "Подсолнечное масло Щедрое лето, рафинированное, 900 мл",
+      "activeIcon": false,
+      "seller": "PROGRESS"
+    },
+    {
+      "id": 98,
+      "img": "https://images.uzum.uz/chdrlk96i6dim8r78uug/t_product_540_high.jpg#1683888403111",
+      "type": "novinki",
+      "credit": "1 320 сум/мес",
+      "skidka": "24 000 сум",
+      "price": "11 000 сум",
+      "ocenka": "16",
+      "star": "5.0",
+      "descript": "Газированный напиток Pepsi, 1.5 л + холодный чай Lipton 1.5 л, 1+1",
+      "activeIcon": false,
+      "seller": "PepsiCo"
+    },
+    {
+      "id": 99,
+      "img": "https://images.uzum.uz/ch9m4p73jia9r0838v8g/t_product_540_high.jpg#1683887722004",
+      "type": "novinki",
+      "credit": "4 550 сум/мес",
+      "skidka": "99 000 сум",
+      "price": "35 000 сум",
+      "ocenka": "1",
+      "star": "5.0",
+      "descript": "Вентилятор настольный портативный для дома и офиса, ручной mini cute fan",
+      "activeIcon": false,
+      "seller": "СПОРТ-МАСТЕР"
+    },
+    {
+      "id": 100,
+      "img": "https://images.uzum.uz/chdrjf1maogscco89opg/t_product_540_high.jpg#1683887722011",
+      "type": "novinki",
+      "credit": "4 680 сум/мес",
+      "skidka": "49 000 сум",
+      "price": "39 000 сум",
+      "ocenka": "15",
+      "star": "5.0",
+      "descript": "Стиральный порошок МИФ, автомат, cвежий цвет, 2 кг",
+      "activeIcon": false,
+      "seller": "Бытовая химия и косметика по уходу №1"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Электроника",
+      "compare": 1,
+      "icons": "fa-solid fa-headphones"
+    },
+    {
+      "id": 2,
+      "name": "Бытовая техника",
+      "compare": 2,
+      "icons": "fa-solid fa-blender-phone"
+    },
+    {
+      "id": 3,
+      "name": "Одежда",
+      "compare": 3,
+      "icons": "fa-solid fa-shirt"
+    },
+    {
+      "id": 4,
+      "name": "Обувь",
+      "compare": 4,
+      "icons": "fa-solid fa-shoe-prints"
+    },
+    {
+      "id": 5,
+      "name": "Аксессуары",
+      "compare": 5,
+      "icons": "fa-solid fa-keyboard"
+    },
+    {
+      "id": 6,
+      "name": "Красота",
+      "compare": 6,
+      "icons": "fa-solid fa-face-kiss-wink-heart"
+    },
+    {
+      "id": 7,
+      "name": "Здоровье",
+      "compare": 7,
+      "icons": "fa-solid fa-heart"
+    },
+    {
+      "id": 8,
+      "name": "Товары для дома",
+      "compare": 8,
+      "icons": "fa-solid fa-home"
+    },
+    {
+      "id": 9,
+      "name": "Строительство и ремонт",
+      "compare": 9,
+      "icons": "fa-solid fa-paint-roller"
+    },
+    {
+      "id": 10,
+      "name": "Автотовары",
+      "compare": 10,
+      "icons": "fa-solid fa-car"
+    },
+    {
+      "id": 11,
+      "name": "Детские товары",
+      "compare": 11,
+      "icons": "fa-solid fa-child"
+    },
+    {
+      "id": 12,
+      "name": "Хобби и творчество",
+      "compare": 12,
+      "icons": "fa-solid fa-paintbrush"
+    },
+    {
+      "id": 13,
+      "name": "Спорт и отдых",
+      "compare": 13,
+      "icons": "fa-solid fa-futbol"
+    },
+    {
+      "id": 14,
+      "name": "Продукты питания",
+      "compare": 14,
+      "icons": "fa-solid fa-apple-whole"
+    },
+    {
+      "id": 15,
+      "name": "Бытовая химия и личная гигиена",
+      "compare": 15,
+      "icons": "fa-solid fa-pump-soap"
+    },
+    {
+      "id": 16,
+      "name": "Канцтовары",
+      "compare": 16,
+      "icons": "fa-solid fa-calendar-days"
+    },
+    {
+      "id": 17,
+      "name": "Зоотовары",
+      "compare": 17,
+      "icons": "fa-solid fa-paw"
+    },
+    {
+      "id": 18,
+      "name": "Книги",
+      "compare": 18,
+      "icons": "fa-solid fa-book"
+    },
+    {
+      "id": 19,
+      "name": "Дача, сад и огород",
+      "compare": 19,
+      "icons": "fa-solid fa-seedling"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Смартфоны и телефоны",
+      "compare": 1,
+      "other": [
+        {
+          "id": 1,
+          "name": "Аксессуары и запчасти"
+        },
+        {
+          "id": 2,
+          "name": "Смартфоны"
+        },
+        {
+          "id": 3,
+          "name": "Кнопочные телефоны"
+        },
+        {
+          "id": 4,
+          "name": "Проводные телефоны"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Умные часы и фитнес браслеты",
+      "compare": 1,
+      "other": [
+        {
+          "id": 1,
+          "name": "Умные часы"
+        },
+        {
+          "id": 2,
+          "name": "Ремешки"
+        },
+        {
+          "id": 3,
+          "name": "Фитнес браслеты"
+        },
+        {
+          "id": 4,
+          "name": "Кабели и зарядные устройства"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ноутбуки, планшеты и электронные книги",
+      "compare": 1,
+      "other": [
+        {
+          "id": 1,
+          "name": "Аксессуары"
+        },
+        {
+          "id": 2,
+          "name": "Ноутбуки"
+        },
+        {
+          "id": 3,
+          "name": "Планшеты"
+        },
+        {
+          "id": 4,
+          "name": "Электронные книги"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Компьютерная техника",
+      "compare": 1,
+      "other": [
+        {
+          "id": 1,
+          "name": "Аксессуары для компьютеров"
+        },
+        {
+          "id": 2,
+          "name": "Компьютерная периферия"
+        },
+        {
+          "id": 3,
+          "name": "Хранение данных"
+        },
+        {
+          "id": 4,
+          "name": "Комплектующие для компьютерной техники"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Наушники и аудиотехника",
+      "compare": 1,
+      "other": [
+        {
+          "id": 1,
+          "name": "Наушники"
+        },
+        {
+          "id": 2,
+          "name": "Аудиотехника"
+        },
+        {
+          "id": 3,
+          "name": "Аксессуары для проигрывателей"
+        },
+        {
+          "id": 4,
+          "name": "Периферия и аксессуары"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Фото- и видеотехника",
+      "compare": 1,
+      "other": [
+        {
+          "id": 1,
+          "name": "Оборудование для фотографов"
+        },
+        {
+          "id": 2,
+          "name": "Аксессуары для фото- и видеокамер"
+        },
+        {
+          "id": 3,
+          "name": "Фото- и видеокамеры"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Часы и электронные будильники",
+      "compare": 1,
+      "other": [
+        {
+          "id": 1,
+          "name": "Электронные будильники"
+        },
+        {
+          "id": 2,
+          "name": "Проекционные часы"
+        },
+        {
+          "id": 3,
+          "name": "Аромабудильники и картриджи"
+        },
+        {
+          "id": 4,
+          "name": "Радио-будильники"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Умный дом и безопасность",
+      "compare": 1,
+      "other": [
+        {
+          "id": 1,
+          "name": "Видеонаблюдение"
+        },
+        {
+          "id": 2,
+          "name": "Умный дом"
+        },
+        {
+          "id": 3,
+          "name": "Безопасность дома"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Телевизоры и видеотехника",
+      "compare": 1,
+      "other": [
+        {
+          "id": 1,
+          "name": "Телевизоры"
+        },
+        {
+          "id": 2,
+          "name": "Оборудование для телевизоров"
+        },
+        {
+          "id": 3,
+          "name": "Проекторы и аксессуары"
+        },
+        {
+          "id": 4,
+          "name": "Проекторы и аксессуары"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Квадрокоптеры и аксессуары",
+      "compare": 1,
+      "other": [
+        {
+          "id": 1,
+          "name": "Аксессуары"
+        },
+        {
+          "id": 2,
+          "name": "Квадрокоптеры"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Игровые приставки",
+      "compare": 1,
+      "other": [
+        {
+          "id": 1,
+          "name": "Игровые контроллеры"
+        },
+        {
+          "id": 2,
+          "name": "Приставки"
+        },
+        {
+          "id": 3,
+          "name": "Аксессуары и запчасти для игровых прист"
+        },
+        {
+          "id": 4,
+          "name": "Игры"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Навигаторы",
+      "compare": 1,
+      "other": [
+        {
+          "id": 1,
+          "name": "GPS-трекеры и GPS-маяки"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Офисная техника",
+      "compare": 1,
+      "other": [
+        {
+          "id": 1,
+          "name": "Комплектующие для офисной техники"
+        },
+        {
+          "id": 2,
+          "name": "Офисное оборудование"
+        },
+        {
+          "id": 3,
+          "name": "Аксессуары и уход за офисной техникой"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Оптические приборы",
+      "compare": 1,
+      "other": [
+        {
+          "id": 1,
+          "name": "Микроскопы"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Аксессуары для электроники",
+      "compare": 1,
+      "other": [
+        {
+          "id": 1,
+          "name": "Кабели"
+        },
+        {
+          "id": 2,
+          "name": "Адаптеры и переходники"
+        },
+        {
+          "id": 3,
+          "name": "Внешние аккумуляторы"
+        },
+        {
+          "id": 4,
+          "name": "Батарейки"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Техника для красоты",
+      "compare": 2,
+      "other": [
+        {
+          "id": 1,
+          "name": "Укладка волос"
+        },
+        {
+          "id": 2,
+          "name": "Стрижка волос"
+        },
+        {
+          "id": 3,
+          "name": "Электробритвы"
+        },
+        {
+          "id": 4,
+          "name": "Эпиляторы и аксессуары"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Климатическая техника",
+      "compare": 2,
+      "other": [
+        {
+          "id": 1,
+          "name": "Очищение и увлажнение воздуха"
+        },
+        {
+          "id": 2,
+          "name": "Вентиляторы"
+        },
+        {
+          "id": 3,
+          "name": "Кондиционеры"
+        },
+        {
+          "id": 4,
+          "name": "Водонагреватели и запчасти"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Крупная бытовая техника",
+      "compare": 2,
+      "other": [
+        {
+          "id": 1,
+          "name": "Холодильники и морозильники"
+        },
+        {
+          "id": 2,
+          "name": "Кулеры для воды и аксессуары"
+        },
+        {
+          "id": 3,
+          "name": "Стиральные машины"
+        },
+        {
+          "id": 4,
+          "name": "Аксессуары для крупной бытовой техники"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Прочие аксессуары и запчасти для бытовой техники",
+      "compare": 2,
+      "other": []
+    },
+    {
+      "id": 20,
+      "name": "Техника для дома",
+      "compare": 2,
+      "other": [
+        {
+          "id": 1,
+          "name": "Утюги и отпариватели"
+        },
+        {
+          "id": 2,
+          "name": "Пылесосы и аксессуары"
+        },
+        {
+          "id": 3,
+          "name": "Швейные машины и аксессуары"
+        },
+        {
+          "id": 4,
+          "name": "Аппараты для влажной уборки"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Товары для кухни",
+      "compare": 2,
+      "other": [
+        {
+          "id": 1,
+          "name": "Блендеры и миксеры"
+        },
+        {
+          "id": 2,
+          "name": "Электрические чайники и термопоты"
+        },
+        {
+          "id": 3,
+          "name": "Микроволновые печи и грили"
+        },
+        {
+          "id": 4,
+          "name": "Прочая кухонная техника"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Женская одежда",
+      "compare": 3,
+      "other": [
+        {
+          "id": 1,
+          "name": "Футболки и топы"
+        },
+        {
+          "id": 2,
+          "name": "Брюки и джинсы"
+        },
+        {
+          "id": 3,
+          "name": "Белье и купальники"
+        },
+        {
+          "id": 4,
+          "name": "Платья"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Мужская одежда",
+      "compare": 3,
+      "other": [
+        {
+          "id": 1,
+          "name": "Футболки и майки"
+        },
+        {
+          "id": 2,
+          "name": "Носки"
+        },
+        {
+          "id": 3,
+          "name": "Брюки и джинсы"
+        },
+        {
+          "id": 4,
+          "name": "Спортивная одежда  "
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Спецодежда",
+      "compare": 3,
+      "other": [
+        {
+          "id": 1,
+          "name": "Спецодежда рабочая"
+        },
+        {
+          "id": 2,
+          "name": "Одежда для поваров и официантов"
+        },
+        {
+          "id": 3,
+          "name": "Медицинская одежда"
+        },
+        {
+          "id": 4,
+          "name": "Аксессуары для спецодежды"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Карнавальная одежда",
+      "compare": 3,
+      "other": []
+    },
+    {
+      "id": 26,
+      "name": "Детская одежда",
+      "compare": 3,
+      "other": [
+        {
+          "id": 1,
+          "name": "Одежда для девочек"
+        },
+        {
+          "id": 2,
+          "name": "Одежда для мальчиков"
+        },
+        {
+          "id": 3,
+          "name": "Одежда для новорождённых"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Женская обувь",
+      "compare": 4,
+      "other": [
+        {
+          "id": 1,
+          "name": "Кроссовки и кеды"
+        },
+        {
+          "id": 2,
+          "name": "Балетки и мокасины"
+        },
+        {
+          "id": 3,
+          "name": "Шлепанцы и сланцы"
+        },
+        {
+          "id": 4,
+          "name": "Туфли"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Мужская обувь",
+      "compare": 4,
+      "other": [
+        {
+          "id": 1,
+          "name": "Кроссовки и кеды"
+        },
+        {
+          "id": 4,
+          "name": "Туфли и мокасины"
+        },
+        {
+          "id": 4,
+          "name": "Шлепанцы и сланцы"
+        },
+        {
+          "id": 4,
+          "name": "Ботинки и полуботинки"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Обувь для девочек",
+      "compare": 4,
+      "other": [
+        {
+          "id": 1,
+          "name": "Кроссовки и кеды"
+        },
+        {
+          "id": 4,
+          "name": "Балетки и туфли"
+        },
+        {
+          "id": 4,
+          "name": "Босоножки и сандалии"
+        },
+        {
+          "id": 4,
+          "name": "Шлепанцы и сланцы"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Обувь для мальчиков",
+      "compare": 4,
+      "other": [
+        {
+          "id": 1,
+          "name": "Кроссовки и кеды"
+        },
+        {
+          "id": 4,
+          "name": "Шлепанцы и сланцы"
+        },
+        {
+          "id": 4,
+          "name": "Ботинки"
+        },
+        {
+          "id": 4,
+          "name": "Сандалии и сабо"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Аксессуары для обуви",
+      "compare": 4,
+      "other": [
+        {
+          "id": 1,
+          "name": "Стельки и вставки"
+        },
+        {
+          "id": 4,
+          "name": "Шнурки"
+        },
+        {
+          "id": 4,
+          "name": "Джибитсы"
+        },
+        {
+          "id": 4,
+          "name": "Чехлы и ледоступы"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Специализированная обувь",
+      "compare": 4,
+      "other": []
+    },
+    {
+      "id": 33,
+      "name": "Женские аксессуары",
+      "compare": 5,
+      "other": [
+        {
+          "id": 1,
+          "name": "Бижутерные украшения"
+        },
+        {
+          "id": 2,
+          "name": "Сумки и рюкзаки"
+        },
+        {
+          "id": 3,
+          "name": "Аксессуары для волос"
+        },
+        {
+          "id": 5,
+          "name": "Платки и шарфы"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Мужские аксессуары",
+      "compare": 5,
+      "other": [
+        {
+          "id": 1,
+          "name": "Очки"
+        },
+        {
+          "id": 2,
+          "name": "Головные уборы"
+        },
+        {
+          "id": 3,
+          "name": "Ремни и подтяжки"
+        },
+        {
+          "id": 4,
+          "name": "Сумки и рюкзаки"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Аксессуары для девочек",
+      "compare": 5,
+      "other": [
+        {
+          "id": 1,
+          "name": "Аксессуары для волос"
+        },
+        {
+          "id": 2,
+          "name": "Бижутерные украшения"
+        },
+        {
+          "id": 3,
+          "name": "Сумки и рюкзаки"
+        },
+        {
+          "id": 4,
+          "name": "Головные уборы"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Аксессуары для мальчиков",
+      "compare": 5,
+      "other": [
+        {
+          "id": 1,
+          "name": "Головные уборы"
+        },
+        {
+          "id": 2,
+          "name": "Бижутерные украшения"
+        },
+        {
+          "id": 3,
+          "name": "Сумки и рюкзаки"
+        },
+        {
+          "id": 4,
+          "name": "Очки"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Аксессуары для путешествий",
+      "compare": 5,
+      "other": [
+        {
+          "id": 1,
+          "name": "Дорожные сумки"
+        },
+        {
+          "id": 2,
+          "name": "Товары для сна"
+        },
+        {
+          "id": 3,
+          "name": "Органайзеры для путешествий"
+        },
+        {
+          "id": 4,
+          "name": "Аксессуары для чемоданов"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Аксессуары для взрослых",
+      "compare": 5,
+      "other": []
+    },
+    {
+      "id": 39,
+      "name": "Религиозные аксессуары",
+      "compare": 5,
+      "other": [
+        {
+          "id": 1,
+          "name": "Четки"
+        },
+        {
+          "id": 2,
+          "name": "Хиджабы и тюрбаны"
+        },
+        {
+          "id": 3,
+          "name": "Кулоны и подвески"
+        },
+        {
+          "id": 4,
+          "name": "Тюбетейки"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Макияж",
+      "compare": 6
+    },
+    {
+      "id": 41,
+      "name": "Уход за лицом",
+      "compare": 6
+    },
+    {
+      "id": 42,
+      "name": "Уход за волосами",
+      "compare": 6
+    },
+    {
+      "id": 43,
+      "name": "Уход за телом",
+      "compare": 6
+    },
+    {
+      "id": 44,
+      "name": "Маникюр и педикюр",
+      "compare": 6
+    },
+    {
+      "id": 45,
+      "name": "Наборы",
+      "compare": 6
+    },
+    {
+      "id": 46,
+      "name": "Для мужчин",
+      "compare": 6
+    },
+    {
+      "id": 47,
+      "name": "Парфюмерия",
+      "compare": 6
+    },
+    {
+      "id": 48,
+      "name": "Оборудование и материалы для тату-салона",
+      "compare": 6
+    },
+    {
+      "id": 49,
+      "name": "Ароматерапия",
+      "compare": 6
+    },
+    {
+      "id": 50,
+      "name": "Корейская косметика",
+      "compare": 6
+    },
+    {
+      "id": 51,
+      "name": "Витамины, БАДы, пищевые добавки",
+      "compare": 7
+    },
+    {
+      "id": 52,
+      "name": "Интимная косметика",
+      "compare": 7
+    },
+    {
+      "id": 53,
+      "name": "Массажеры и массажное оборудование",
+      "compare": 7
+    },
+    {
+      "id": 54,
+      "name": "Медицинские приборы",
+      "compare": 7
+    },
+    {
+      "id": 55,
+      "name": "Медицинские изделия и расходные материалы",
+      "compare": 7
+    },
+    {
+      "id": 56,
+      "name": "Ортопедические изделия",
+      "compare": 7
+    },
+    {
+      "id": 57,
+      "name": "Наборы",
+      "compare": 7
+    },
+    {
+      "id": 58,
+      "name": "Презервативы и лубриканты",
+      "compare": 7
+    },
+    {
+      "id": 59,
+      "name": "Оптика",
+      "compare": 7
+    },
+    {
+      "id": 60,
+      "name": "Товары для кухни",
+      "compare": 8
+    },
+    {
+      "id": 61,
+      "name": "Текстиль",
+      "compare": 8
+    },
+    {
+      "id": 62,
+      "name": "Хозяйственные товары",
+      "compare": 8
+    },
+    {
+      "id": 63,
+      "name": "Хранение вещей",
+      "compare": 8
+    },
+    {
+      "id": 64,
+      "name": "Декор и интерьер",
+      "compare": 8
+    },
+    {
+      "id": 65,
+      "name": "Товары для комнатных растений",
+      "compare": 8
+    },
+    {
+      "id": 66,
+      "name": "Товары для бани и сауны",
+      "compare": 8
+    },
+    {
+      "id": 67,
+      "name": "Товары для праздников",
+      "compare": 8
+    },
+    {
+      "id": 68,
+      "name": "Мебель",
+      "compare": 8
+    },
+    {
+      "id": 69,
+      "name": "Ручной инструмент и оснастка",
+      "compare": 9
+    },
+    {
+      "id": 70,
+      "name": "Электроинструменты",
+      "compare": 9
+    },
+    {
+      "id": 71,
+      "name": "Сантехника",
+      "compare": 9
+    },
+    {
+      "id": 72,
+      "name": "Строительное оборудование",
+      "compare": 9
+    },
+    {
+      "id": 73,
+      "name": "Электрика",
+      "compare": 9
+    },
+    {
+      "id": 74,
+      "name": "Освещение",
+      "compare": 9
+    },
+    {
+      "id": 75,
+      "name": "Вентиляция",
+      "compare": 9
+    },
+    {
+      "id": 76,
+      "name": "Отделочные материалы",
+      "compare": 9
+    },
+    {
+      "id": 77,
+      "name": "Водоснабжение для дома и сада",
+      "compare": 9
+    },
+    {
+      "id": 78,
+      "name": "Отопление",
+      "compare": 9
+    },
+    {
+      "id": 79,
+      "name": "Автозапчасти",
+      "compare": 10
+    },
+    {
+      "id": 80,
+      "name": "Автозвук",
+      "compare": 10
+    },
+    {
+      "id": 81,
+      "name": "Аккумуляторы и аксессуары",
+      "compare": 10
+    },
+    {
+      "id": 82,
+      "name": "Аксессуары и принадлежности",
+      "compare": 10
+    },
+    {
+      "id": 83,
+      "name": "Гараж и автосервис",
+      "compare": 10
+    },
+    {
+      "id": 84,
+      "name": "Инструменты и оборудование",
+      "compare": 10
+    },
+    {
+      "id": 85,
+      "name": "Масла и автохимия",
+      "compare": 10
+    },
+    {
+      "id": 86,
+      "name": "Товары для мототехники, мотоэкипировка",
+      "compare": 10
+    },
+    {
+      "id": 87,
+      "name": "Уход за автомобилем",
+      "compare": 10
+    },
+    {
+      "id": 88,
+      "name": "Смартфоны",
+      "compare": 10
+    },
+    {
+      "id": 89,
+      "name": "Шины и диски",
+      "compare": 10
+    },
+    {
+      "id": 90,
+      "name": "Электроника для авто",
+      "compare": 10
+    },
+    {
+      "id": 91,
+      "name": "Гигиена и подгузники",
+      "compare": 11
+    },
+    {
+      "id": 92,
+      "name": "Детская комната",
+      "compare": 11
+    },
+    {
+      "id": 93,
+      "name": "Детский спорт и активный отдых",
+      "compare": 11
+    },
+    {
+      "id": 94,
+      "name": "Детское творчество",
+      "compare": 11
+    },
+    {
+      "id": 95,
+      "name": "Для беременных и кормящих",
+      "compare": 11
+    },
+    {
+      "id": 96,
+      "name": "Игрушки и игры",
+      "compare": 11
+    },
+    {
+      "id": 97,
+      "name": "Коляски и автокресла",
+      "compare": 11
+    },
+    {
+      "id": 98,
+      "name": "Товары для кормления",
+      "compare": 11
+    },
+    {
+      "id": 99,
+      "name": "Гадания и эзотерика",
+      "compare": 12
+    },
+    {
+      "id": 100,
+      "name": "Лепка",
+      "compare": 12
+    },
+    {
+      "id": 101,
+      "name": "Музыкальные инструменты",
+      "compare": 12
+    },
+    {
+      "id": 102,
+      "name": "Настольные и карточные игры",
+      "compare": 12
+    },
+    {
+      "id": 103,
+      "name": "Пазлы, мозаика и фреска",
+      "compare": 12
+    },
+    {
+      "id": 104,
+      "name": "Прочие хобби",
+      "compare": 12
+    },
+    {
+      "id": 105,
+      "name": "Рисование",
+      "compare": 12
+    },
+    {
+      "id": 106,
+      "name": "Рукоделие",
+      "compare": 12
+    },
+    {
+      "id": 107,
+      "name": "Создание картин, фоторамок, открыток",
+      "compare": 12
+    },
+    {
+      "id": 108,
+      "name": "Стикеры",
+      "compare": 12
+    },
+    {
+      "id": 109,
+      "name": "Товары для курения",
+      "compare": 12
+    },
+    {
+      "id": 110,
+      "name": "Активные виды отдыха",
+      "compare": 13
+    },
+    {
+      "id": 111,
+      "name": "Виды спорта",
+      "compare": 13
+    },
+    {
+      "id": 112,
+      "name": "Водный спорт и отдых на воде",
+      "compare": 13
+    },
+    {
+      "id": 113,
+      "name": "Зимний спорт",
+      "compare": 13
+    },
+    {
+      "id": 114,
+      "name": "Командные виды спорта",
+      "compare": 13
+    },
+    {
+      "id": 115,
+      "name": "Отдых на природе, рыбалка и охота",
+      "compare": 13
+    },
+    {
+      "id": 116,
+      "name": "Спортивная защита и экипировка",
+      "compare": 13
+    },
+    {
+      "id": 117,
+      "name": "Спортивное питание",
+      "compare": 13
+    },
+    {
+      "id": 118,
+      "name": "Фитнес и тренажеры",
+      "compare": 13
+    },
+    {
+      "id": 119,
+      "name": "Бакалея",
+      "compare": 14
+    },
+    {
+      "id": 120,
+      "name": "Чай, кофе, горячие напитки",
+      "compare": 14
+    },
+    {
+      "id": 121,
+      "name": "Вода, соки, напитки",
+      "compare": 14
+    },
+    {
+      "id": 122,
+      "name": "Шоколад, конфеты, сладости",
+      "compare": 14
+    },
+    {
+      "id": 123,
+      "name": "Орехи, сухофрукты, семечки",
+      "compare": 14
+    },
+    {
+      "id": 124,
+      "name": "Мед, варенье, сладкая консервация",
+      "compare": 14
+    },
+    {
+      "id": 125,
+      "name": "Снеки",
+      "compare": 14
+    },
+    {
+      "id": 126,
+      "name": "Детское питание",
+      "compare": 14
+    },
+    {
+      "id": 127,
+      "name": "Здоровое питание",
+      "compare": 14
+    },
+    {
+      "id": 128,
+      "name": "Бумажная и ватная продукция",
+      "compare": 15
+    },
+    {
+      "id": 129,
+      "name": "Гигиена полости рта",
+      "compare": 15
+    },
+    {
+      "id": 130,
+      "name": "Депиляция и эпиляция",
+      "compare": 15
+    },
+    {
+      "id": 131,
+      "name": "Интимная гигиена",
+      "compare": 15
+    },
+    {
+      "id": 132,
+      "name": "Мыло",
+      "compare": 15
+    },
+    {
+      "id": 133,
+      "name": "Освежители и ароматизаторы",
+      "compare": 15
+    },
+    {
+      "id": 134,
+      "name": "Средства для посудомоечных машин",
+      "compare": 15
+    },
+    {
+      "id": 135,
+      "name": "Средства для стирки",
+      "compare": 15
+    },
+    {
+      "id": 136,
+      "name": "Средства для ухода за бытовой техникой",
+      "compare": 15
+    },
+    {
+      "id": 137,
+      "name": "Средства от насекомых и грызунов",
+      "compare": 15
+    },
+    {
+      "id": 138,
+      "name": "Средства по уходу за обувью",
+      "compare": 15
+    },
+    {
+      "id": 139,
+      "name": "Товары для бритья",
+      "compare": 15
+    },
+    {
+      "id": 140,
+      "name": "Хозяйственное мыло",
+      "compare": 15
+    },
+    {
+      "id": 141,
+      "name": "Чистящие и моющие средства",
+      "compare": 15
+    },
+    {
+      "id": 142,
+      "name": "Бумага",
+      "compare": 16
+    },
+    {
+      "id": 143,
+      "name": "Бумажная продукция",
+      "compare": 16
+    },
+    {
+      "id": 144,
+      "name": "Демонстрационные доски",
+      "compare": 16
+    },
+    {
+      "id": 145,
+      "name": "Калькуляторы",
+      "compare": 16
+    },
+    {
+      "id": 146,
+      "name": "Картриджи",
+      "compare": 16
+    },
+    {
+      "id": 147,
+      "name": "Настольные подставки и визитницы",
+      "compare": 16
+    },
+    {
+      "id": 148,
+      "name": "Оборудование для торговли",
+      "compare": 16
+    },
+    {
+      "id": 149,
+      "name": "Офисные принадлежности",
+      "compare": 16
+    },
+    {
+      "id": 140,
+      "name": "Папки и файлы",
+      "compare": 16
+    },
+    {
+      "id": 151,
+      "name": "Печати и штампы",
+      "compare": 16
+    },
+    {
+      "id": 152,
+      "name": "Письменные принадлежности",
+      "compare": 16
+    },
+    {
+      "id": 153,
+      "name": "Товары для школы и обучения",
+      "compare": 16
+    },
+    {
+      "id": 154,
+      "name": "Чертежные принадлежности",
+      "compare": 16
+    },
+    {
+      "id": 155,
+      "name": "Ветаптека",
+      "compare": 17
+    },
+    {
+      "id": 156,
+      "name": "Гигиена",
+      "compare": 17
+    },
+    {
+      "id": 157,
+      "name": "Для грызунов",
+      "compare": 17
+    },
+    {
+      "id": 158,
+      "name": "Для кошек",
+      "compare": 17
+    },
+    {
+      "id": 159,
+      "name": "Для птиц",
+      "compare": 17
+    },
+    {
+      "id": 160,
+      "name": "Для рыб и рептилий",
+      "compare": 17
+    },
+    {
+      "id": 161,
+      "name": "Для сельскохозяйственных животных",
+      "compare": 17
+    },
+    {
+      "id": 162,
+      "name": "Для собак",
+      "compare": 17
+    },
+    {
+      "id": 163,
+      "name": "Бизнес-литература",
+      "compare": 18
+    },
+    {
+      "id": 164,
+      "name": "Букинистика",
+      "compare": 18
+    },
+    {
+      "id": 165,
+      "name": "Детям и родителям",
+      "compare": 18
+    },
+    {
+      "id": 166,
+      "name": "Журналы, газеты",
+      "compare": 18
+    },
+    {
+      "id": 167,
+      "name": "Календари",
+      "compare": 18
+    },
+    {
+      "id": 168,
+      "name": "Комиксы",
+      "compare": 18
+    },
+    {
+      "id": 169,
+      "name": "Литература на иностранных языках",
+      "compare": 18
+    },
+    {
+      "id": 170,
+      "name": "Нехудожественная литература",
+      "compare": 18
+    },
+    {
+      "id": 171,
+      "name": "Комиксы",
+      "compare": 18
+    },
+    {
+      "id": 172,
+      "name": "Учебная литература",
+      "compare": 18
+    },
+    {
+      "id": 173,
+      "name": "Художественная литература",
+      "compare": 18
+    },
+    {
+      "id": 174,
+      "name": "Подарочные издания",
+      "compare": 18
+    },
+    {
+      "id": 175,
+      "name": "Садовая техника",
+      "compare": 19
+    },
+    {
+      "id": 176,
+      "name": "Бассейны и аксессуары",
+      "compare": 19
+    },
+    {
+      "id": 177,
+      "name": "Обустройство дачи и сада",
+      "compare": 19
+    },
+    {
+      "id": 178,
+      "name": "Парники и теплицы",
+      "compare": 19
+    },
+    {
+      "id": 179,
+      "name": "Пикник, барбекю, гриль",
+      "compare": 19
+    },
+    {
+      "id": 180,
+      "name": "Садовая мебель и декор",
+      "compare": 19
+    },
+    {
+      "id": 181,
+      "name": "Садовый инструмент",
+      "compare": 19
+    },
+    {
+      "id": 182,
+      "name": "Семена и саженцы",
+      "compare": 19
+    },
+    {
+      "id": 183,
+      "name": "Удобрения и уход за растениями",
+      "compare": 19
+    }
+  ],
+  "navbar": [
+    {
+      "id": 1,
+      "name": "Электроника",
+      "compare": 1,
+      "category": [
+        {
+          "id": 1,
+          "name": "Смартфоны и телефоны",
+          "compare": 1,
+          "other": [
+            {
+              "id": 1,
+              "name": "Аксессуары и запчасти"
+            },
+            {
+              "id": 2,
+              "name": "Смартфоны"
+            },
+            {
+              "id": 3,
+              "name": "Кнопочные телефоны"
+            },
+            {
+              "id": 4,
+              "name": "Проводные телефоны"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Умные часы и фитнес браслеты",
+          "compare": 1,
+          "other": [
+            {
+              "id": 1,
+              "name": "Умные часы"
+            },
+            {
+              "id": 2,
+              "name": "Ремешки"
+            },
+            {
+              "id": 3,
+              "name": "Фитнес браслеты"
+            },
+            {
+              "id": 4,
+              "name": "Кабели и зарядные устройства"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Ноутбуки, планшеты и электронные книги",
+          "compare": 1,
+          "other": 3
+        },
+        {
+          "id": 4,
+          "name": "Компьютерная техника",
+          "compare": 1,
+          "other": 4
+        },
+        {
+          "id": 5,
+          "name": "Наушники и аудиотехника",
+          "compare": 1,
+          "other": 5
+        },
+        {
+          "id": 6,
+          "name": "Фото- и видеотехника",
+          "compare": 1,
+          "other": 6
+        },
+        {
+          "id": 7,
+          "name": "Часы и электронные будильники",
+          "compare": 1,
+          "other": 5
+        },
+        {
+          "id": 8,
+          "name": "Умный дом и безопасность",
+          "compare": 1,
+          "other": 8
+        },
+        {
+          "id": 9,
+          "name": "Телевизоры и видеотехника",
+          "compare": 1,
+          "other": 9
+        },
+        {
+          "id": 10,
+          "name": "Квадрокоптеры и аксессуары",
+          "compare": 1,
+          "other": 10
+        },
+        {
+          "id": 11,
+          "name": "Игровые приставки",
+          "compare": 1,
+          "other": 11
+        },
+        {
+          "id": 12,
+          "name": "Навигаторы",
+          "compare": 1,
+          "other": 12
+        },
+        {
+          "id": 13,
+          "name": "Офисная техника",
+          "compare": 1,
+          "other": 13
+        },
+        {
+          "id": 14,
+          "name": "Оптические приборы",
+          "compare": 1,
+          "other": 14
+        },
+        {
+          "id": 15,
+          "name": "Аксессуары для электроники",
+          "compare": 1,
+          "other": 15
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Бытовая техника",
+      "compare": 2,
+      "category": [
+        {
+          "id": 1,
+          "name": "Техника для красоты",
+          "compare": 2,
+          "other": [
+            {
+              "id": 1,
+              "name": "Укладка волос"
+            },
+            {
+              "id": 2,
+              "name": "Стрижка волос"
+            },
+            {
+              "id": 3,
+              "name": "Электробритвы"
+            },
+            {
+              "id": 4,
+              "name": "Эпиляторы и аксессуары"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Климатическая техника",
+          "compare": 2,
+          "other": [
+            {
+              "id": 1,
+              "name": "Очищение и увлажнение воздуха"
+            },
+            {
+              "id": 2,
+              "name": "Вентиляторы"
+            },
+            {
+              "id": 3,
+              "name": "Кондиционеры"
+            },
+            {
+              "id": 4,
+              "name": "Водонагреватели и запчасти"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Крупная бытовая техника",
+          "compare": 2,
+          "other": [
+            {
+              "id": 1,
+              "name": "Холодильники и морозильники"
+            },
+            {
+              "id": 2,
+              "name": "Кулеры для воды и аксессуары"
+            },
+            {
+              "id": 3,
+              "name": "Стиральные машины"
+            },
+            {
+              "id": 4,
+              "name": "Аксессуары для крупной бытовой техники"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Прочие аксессуары и запчасти для бытовой техники",
+          "compare": 2,
+          "other": []
+        },
+        {
+          "id": 5,
+          "name": "Техника для дома",
+          "compare": 2,
+          "other": [
+            {
+              "id": 1,
+              "name": "Утюги и отпариватели"
+            },
+            {
+              "id": 2,
+              "name": "Пылесосы и аксессуары"
+            },
+            {
+              "id": 3,
+              "name": "Швейные машины и аксессуары"
+            },
+            {
+              "id": 4,
+              "name": "Аппараты для влажной уборки"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Товары для кухни",
+          "compare": 2,
+          "other": [
+            {
+              "id": 1,
+              "name": "Блендеры и миксеры"
+            },
+            {
+              "id": 2,
+              "name": "Электрические чайники и термопоты"
+            },
+            {
+              "id": 3,
+              "name": "Микроволновые печи и грили"
+            },
+            {
+              "id": 4,
+              "name": "Прочая кухонная техника"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Одежда",
+      "compare": 3
+    },
+    {
+      "id": 4,
+      "name": "Обувь",
+      "compare": 4
+    },
+    {
+      "id": 5,
+      "name": "Аксессуары",
+      "compare": 5
+    },
+    {
+      "id": 6,
+      "name": "Красота",
+      "compare": 6
+    },
+    {
+      "id": 7,
+      "name": "Здоровье",
+      "compare": 7
+    },
+    {
+      "id": 8,
+      "name": "Товары для дома",
+      "compare": 8
+    },
+    {
+      "id": 9,
+      "name": "Строительство и ремонт",
+      "compare": 9
+    },
+    {
+      "id": 10,
+      "name": "Автотовары",
+      "compare": 10
+    },
+    {
+      "id": 11,
+      "name": "Детские товары",
+      "compare": 11
+    }
+  ]
+}
