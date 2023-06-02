@@ -1,1 +1,1 @@
-export const  Api = 'https://project-uzum.vercel.app/:8000' 
+export const  Api = 'https://project-uzum.vercel.app/:3001' 
