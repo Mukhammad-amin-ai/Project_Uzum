@@ -54,19 +54,6 @@ export default function Slider() {
             delay: 2500,
             disableOnInteraction: false,
           }}
-          // breakpoints={{
-          // 900: {
-          //     width: 900,
-          //     slidesPerView: 1,
-          //   },
-          //   1200: {
-          //     width: 1200,
-          //     slidesPerView: 1,
-          //   },
-          //   1536: {
-          //     width: 1536,
-          //     slidesPerView:1
-          //   }}}
           modules={[Autoplay, Navigation, Pagination, Keyboard, HashNavigation]}
           className="mySwiper"
           style={{

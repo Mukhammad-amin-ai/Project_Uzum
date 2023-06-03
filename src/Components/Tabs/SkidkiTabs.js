@@ -1,8 +1,6 @@
 import { Box, CircularProgress } from "@mui/material";
 import React from "react";
 import Bazar from "../Home/Bazar";
-
-import Card from "../Common/Card/Card";
 import Rasrochka from "../Home/Rasrochka";
 import { useGetProductsQuery } from "../../Api/RTKApi/RTKApi";
 import SmallCard from "../Common/Card/SmallCard";

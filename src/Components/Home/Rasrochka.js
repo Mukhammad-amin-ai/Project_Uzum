@@ -70,7 +70,13 @@ export default function Rasrochka() {
             gap: "10px",
           }}
         >
-          <Typography sx={{ fontSize: "28px", fontWeight: "700" }}>
+          <Typography sx={{  fontSize: {
+            xs:"18px",
+            sm:'18px',
+            md:"20px",
+            lg:'25px',
+            xl:'28px'
+          }, fontWeight: "700" }}>
             Рассрочка без переплат
           </Typography>
           <i style={{ fontSize: "30px" }} className="bx bx-chevron-right"></i>

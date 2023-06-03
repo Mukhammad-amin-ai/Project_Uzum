@@ -14,7 +14,7 @@ export default function Slides({ product }) {
         sx={{
           width: "100%",
           height: {
-            xs: "50vh",
+            xs: "60vh",
             sm: "60vh",
             md: "60vh",
             lg: "100vh",
@@ -30,30 +30,27 @@ export default function Slides({ product }) {
             height: "100%",
           }}
           navigation={true}
-          slidesPerView={5}
+          slidesPerView={2}
           spaceBetween={10}
           pagination={false}
           modules={[Pagination, Navigation]}
           breakpoints={{
             400: {
-              width: 900,
-              slidesPerView: 6,
+              width: 400,
+              slidesPerView:2,
+              
             },
             600: {
-              width: 900,
-              slidesPerView: 6,
+              width: 600,
+              slidesPerView: 4,
             },
             900: {
               width: 900,
               slidesPerView: 5,
             },
-            1200: {
-              width: 1200,
-              slidesPerView: 4,
-            },
             1536: {
               width: 1536,
-              slidesPerView: 6.3,
+              slidesPerView: 6,
             },
           }}
         >
