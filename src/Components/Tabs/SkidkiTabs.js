@@ -5,6 +5,7 @@ import Bazar from "../Home/Bazar";
 import Card from "../Common/Card/Card";
 import Rasrochka from "../Home/Rasrochka";
 import { useGetProductsQuery } from "../../Api/RTKApi/RTKApi";
+import SmallCard from "../Common/Card/SmallCard";
 
 export default function SkidkiTabs() {
   let product =[]
@@ -41,7 +42,7 @@ export default function SkidkiTabs() {
       >
         {product.length !== 0
           ? product.map((item, index) => (
-              <Card
+              <SmallCard
                 key={index}
                 img={item.img}
                 kredit={item.kredit}
@@ -68,7 +69,7 @@ export default function SkidkiTabs() {
       >
         {product.length !== 0
           ? product.map((item, index) => (
-              <Card
+              <SmallCard
                 key={index}
                 img={item.img}
                 kredit={item.kredit}
