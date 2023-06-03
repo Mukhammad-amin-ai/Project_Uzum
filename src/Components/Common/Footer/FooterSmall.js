@@ -13,9 +13,9 @@ export default function FooterSmall() {
     <Box
       sx={{
         display: {
-          xs: "none",
-          sm: "none",
-          md: "Flex",
+          xs: "flex",
+          sm: "flex",
+          md: "flex",
           lg: "none",
           xl: "none",
         },

@@ -52,7 +52,7 @@ export default function Home() {
           <BasicTabs />
         </Box>
       </Box>
-      <Box sx={{ position: "sticky", top: "0" }}>
+      <Box sx={{ position: "sticky", top: "0" , display:"none"}}>
         <Link href="#">
           <Button
             sx={{

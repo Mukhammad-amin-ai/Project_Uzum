@@ -54,6 +54,8 @@ export default function Bottom() {
           lg:'unset',
           xl:'unset'
         }, alignItems:{
+          xs:'center',
+          sm:'center',
           md:'center',
           lg:'unset',
           xl:'unset',

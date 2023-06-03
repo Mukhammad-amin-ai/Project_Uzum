@@ -1,31 +1,42 @@
-import { Box } from "@mui/material";
-import React, { useEffect, useState } from "react";
+import { Box, CircularProgress } from "@mui/material";
+import React from "react";
 import Bazar from "../Home/Bazar";
-import axios from "axios";
-import { Api } from "../../Api/Api";
+
 import Card from "../Common/Card/Card";
 import Rasrochka from "../Home/Rasrochka";
+import { useGetProductsQuery } from "../../Api/RTKApi/RTKApi";
 
-export default function Skidki() {
+export default function SkidkiTabs() {
   let product =[]
-  let [data,setData]=useState([])
-  useEffect(() => {
-    axios
-      .get(Api + "product")
-      .then((res) => setData(res.data));
-  }, []);
-    product=data.filter((item) => item.type === "skidki")
-
+  const { data = [], isLoading, isError } = useGetProductsQuery();
+  product=data.filter((item) => item.type === "skidki")
+ 
+  if (isLoading)
+    return (
+      <div
+        style={{
+          width: "100%",
+          height: "100px",
+          display: "flex",
+          justifyContent: "center",
+        }}
+      >
+        <CircularProgress />
+      </div>
+    );
+  if (isError) {
+    return <div>Error occurred.</div>;
+  }
   return (
-    <Box sx={{ width: "100%" }}>
+    <Box sx={{ width: "100%",height:"auto" }}>
       <Box
         sx={{
           width: "100%",
           height: "auto",
           display: "flex",
           flexWrap: "wrap",
-          justifyContent:"center",
-          gap:'5px'
+          justifyContent:"space-evenly",
+          gap:'10px'
         }}
       >
         {product.length !== 0
@@ -51,8 +62,8 @@ export default function Skidki() {
           height: "auto",
           display: "flex",
           flexWrap: "wrap",
-          justifyContent:"center",
-          gap:'5px'
+          justifyContent:"space-evenly",
+          gap:'10px'
         }}
       >
         {product.length !== 0

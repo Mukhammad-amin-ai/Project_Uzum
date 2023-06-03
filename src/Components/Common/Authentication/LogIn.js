@@ -7,9 +7,9 @@ export default function LogIn({ closLog,bypassword }) {
   let  [number,setnumber]= useState('')
   var numberFunc = (event)=>{
     setnumber( event.target.value)
+    console.log(number);
    
   }
- 
   return (
     <Box
       sx={{
